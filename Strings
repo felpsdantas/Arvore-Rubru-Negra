@@ -1,0 +1,21 @@
+public class Strings {
+    public static final String PRE_ORDER_AVL = "Árvore AVL após a inserção (Pré-Ordem):";
+    public static final String IN_ORDER_AVL = "Árvore AVL após a inserção (In Ordem):";
+    public static final String POST_ORDER_AVL = "Árvore AVL após a inserção (Pós-Ordem):";
+
+    public static final String PRE_ORDER_RB = "Árvore RB após a inserção (Pré-Ordem):";
+    public static final String IN_ORDER_RB = "Árvore RB após a inserção (In Ordem):";
+    public static final String POST_ORDER_RB = "Árvore RB após a inserção (Pós-Ordem):";
+
+    public static final String VALUE = "Valor: ";
+    public static final String HEIGHT = " | Altura: ";
+    public static final String BALANCE_FACTOR = " | Fator de Balanceamento: ";
+    public static final String DIVIDER = "----------------------------------------";
+    public static final String MENU_ITEM_1 = "[1] Arvore Red Black \n";
+    public static final String MENU_ITEM_2 = "[2] Sair";
+
+    public static final String INVALIDATE_VALUE = "Por favor, insira um número válido.";
+    public static final String END = "x";
+    public static final String TREE_INSERTING_VALUE = "Digite os números que deseja inserir na árvore (digite 'x' para encerrar):";
+
+}
